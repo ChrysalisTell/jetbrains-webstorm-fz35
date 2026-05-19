@@ -1,4 +1,4 @@
-# 
+# vip Visual Studio para PC plugins é o melhor Visual Studio para PC plugins com fluxos de trabalho automatizados e gerador de documentação. Seguro, confiável e otimizado para
 
 
 
